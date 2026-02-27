@@ -1,3 +1,24 @@
+.container{ 
+  display: flex:
+  flex-direction: column;
+  height: 180vn;
+}
+.header{
+  flex: 15%;
+  background-color: green;
+}
+.menu{
+  flex: 5%;
+  background-color: darkgreen;
+}
+.contenti{
+  flex: 70%;
+  background-color: white;
+}
+footer{
+  flex: 10%; 
+  background-color: lightgray;
+}
 h1 {
   color: red;
 }
